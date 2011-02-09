@@ -14,11 +14,13 @@ Some things I hope to achieve with this project:
 	-  I will try to be very strict about TDD. No code without pre-existing tests!
  
 What is outside the scope of my project:
+
  -  Not worried about scalability. Hopefully it scales well, but it will be used in a personal project
-   -  I will not worry about agressive caching, automated compression of the git object database, etc.
+	-  I will not worry about agressive caching, automated compression of the git object database, etc.
  -  Will not prioritize making the project easy to deplpoy
-   - Ideally I can just install this on multiple sites; but the installer script may not be a first priority.
+	-  Ideally I can just install this on multiple sites; but the installer script may not be a first priority.
 
 Why "Twindy"?
- - NO IDEA! I came up with the project while walking to class, and it was very windy outside?
- - I guess "T'was Windy" comes to mind.
+
+ -  NO IDEA! I came up with the project while walking to class, and it was very windy outside?
+ -  I guess "T'was Windy" comes to mind.
